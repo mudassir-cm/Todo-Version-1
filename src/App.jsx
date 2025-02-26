@@ -12,7 +12,7 @@ function App() {
 
   return (
 
-    <center class="todo-container">
+    <center className="todo-container">
       <TodoName />
       <AddTodo />
       <div className="todoItem">
